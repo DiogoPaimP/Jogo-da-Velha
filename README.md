@@ -2,3 +2,5 @@
  jogo da velha com Figma
 
  First comit
+
+ npm start
