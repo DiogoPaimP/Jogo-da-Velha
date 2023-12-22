@@ -1,9 +1,9 @@
 import React from "react";
+import './styles.css';
+
 
 const Card = () => (
-    <article className="card">
-        card
-    </article>
+    <article className="card"></article>
 );
 
 export default Card;
