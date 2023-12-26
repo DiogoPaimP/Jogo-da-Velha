@@ -8,8 +8,20 @@ function App() {
   return (
     <>
       <Header />
-      <Card />
-      <Player player="x"/>
+      <Card >
+        <Player player="x"/>
+        <Player player="x"/>
+        <Player player="x"/>
+
+        <Player player="x"/>
+        <Player player="x"/>
+        <Player player="x"/>
+
+        <Player player="x"/>
+        <Player player="x"/>
+        <Player player="x"/>
+        </Card>
+     
     </>
   );
 }
